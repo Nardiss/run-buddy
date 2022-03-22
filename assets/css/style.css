@@ -43,8 +43,6 @@ header nav ul li a {
   font-size: 22px;
 }
 
-
-
 footer {
   background: #fce138;
   width: 100%;
@@ -90,7 +88,6 @@ section {
   position: absolute;
   bottom: 120px;
   right: 140px;
-  
 }
 
 .hero-form h3 {
@@ -129,8 +126,6 @@ section {
   text-align: center;
 }
   
-
-
 .intro p {
   line-height: 1.7;
   color: #39a6b2;

@@ -3,8 +3,8 @@
 ## Purpose
 
 ## Built With
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://github.com/Nardiss/run-buddy
